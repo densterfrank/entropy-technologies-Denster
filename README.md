@@ -30,6 +30,21 @@ This function  `first_filter` contains a data cleaning pipeline that utilizes re
 The unwanted lines are removed based on these conditions, and the filtered lines are stored in a list called `filtered_data`.
 
 ## Second Filter
+This function, `second_filter`, serves as the second layer of filtering in the cleaning process. Each line of data is passed into two separate functions, `verify`, which filter out unwanted data based on specific conditions.
+
+## Conditions for Filtering
+
+### Condition 1: Contains Special Symbols
+
+The function `contains_special` filters data if it contains special symbols such as `<`, `>`, `|`, or `-`. 
+
+### Condition 2: Contains "AND" or "BETWEEN"
+
+The function `contains_and_or_between` filters data if it contains the words "and" and "between" within the line.
+
+After passing through these conditions, the filtered data is stored in a list called `new_filtered_data`.
+
+
 
 ## Remove unwanted tokens
 
