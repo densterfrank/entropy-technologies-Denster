@@ -71,3 +71,7 @@ This function is designed to extract three types of information from a cleaned l
 As we can see from the image that the parameter is not unique, So to remove duplicate we have used function called `remove_duplicate_parameter`
 ## Final Output
 
+# How to Run NoteBook
+
+# Reference
+
