@@ -10,8 +10,10 @@
 #### Function *to_read_txt* is used to read data from txt file
 
 ## Read Parameter
+#### Function *to_read_json* is used to read data from json file and store in list named *parameter_list*
 
 ## Cleaned List
+#### Function *makelist_from_lines* is used to store each line as element in the list named *cleaned_list*
 
 ## First Filter
 
