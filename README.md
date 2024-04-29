@@ -70,6 +70,7 @@ This function is designed to extract three types of information from a cleaned l
 
 As we can see from the image that the parameter is not unique, So to remove duplicate we have used function called `remove_duplicate_parameter`
 ## Final Output
+<img width="407" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/bcb8b8da-4b0d-4a7b-b590-86c36420f5a1">
 
 # How to Run NoteBook
 
