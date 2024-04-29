@@ -45,11 +45,24 @@ The function `contains_and_or_between` filters data if it contains the words "an
 
 After passing through these conditions, the filtered data is stored in a list called `new_filtered_data`.
 
-
-
-## Remove unwanted tokens
-
 ## Information Extaction
+This function is designed to extract three types of information from a cleaned line of text.
+
+### 1. Parameter Name
+- The function `find_similar_words` is utilized to detect words similar to a given word from a JSON file.
+- This function implements cosine similarity logic to determine similar words and returns a list of words with their respective similarity scores.
+- The function `highest_similarity` is then employed to identify the word with the highest similarity score among all.
+
+### 2. Unit
+- The function `detect_unit` is responsible for identifying any units present in the line.
+- Units are recognized by characters such as `/` and `%`.
+
+### 3. Value
+- Observation suggests that the value is consistently located beside the unit.
+- Logic has been implemented to check both the left and right sides of the list to detect the value.
+- The `isinstance` function is used for this purpose.
+
+- The extracted parameter, value, and unit are stored in a list of dictionaries named `main_dic`.
 
 ## Remove Duplicates
 
