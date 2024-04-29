@@ -80,6 +80,10 @@ As we can see from the image that the parameter is not unique, So to remove dupl
 1. **NER (Named Entity Recognition)**: Utilizing NER instead of cosine similarity could potentially address both issues by detecting parameter names and units. However, it's worth noting that preparing data and training the model for NER might require additional time and effort.
 
 # How to Run NoteBook
+1.) Open Assignment_Entropy_Denster.ipynb in Jupyter Notebook or Google Collab
+2.) Go to cell 20 and change txt file path or json path
+3.) Go to Runtime and select Run All
+4.) You can see the ouput in required format once all cell is finished running.
 
 # Reference
 Ma MW, Gao XS, Zhang ZY, Shang SY, Jin L, Liu PL, Lv F, Ni W, Han YC, Zong H. Extracting laboratory test information from paper-based reports. BMC Med Inform Decis Mak. 2023 Nov 6;23(1):251. doi: 10.1186/s12911-023-02346-6. PMID: 37932733; PMCID: PMC10629084.
