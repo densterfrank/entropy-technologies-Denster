@@ -81,8 +81,11 @@ As we can see from the image that the parameter is not unique, So to remove dupl
 
 # How to Run NoteBook
 1.) Open Assignment_Entropy_Denster.ipynb in Jupyter Notebook or Google Collab
+
 2.) Go to cell 20 and change txt file path or json path
+
 3.) Go to Runtime and select Run All
+
 4.) You can see the ouput in required format once all cell is finished running.
 
 # Reference
