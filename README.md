@@ -73,6 +73,11 @@ As we can see from the image that the parameter is not unique, So to remove dupl
 <img width="407" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/bcb8b8da-4b0d-4a7b-b590-86c36420f5a1">
 
 # Scope of Improvement
+1. **Cosine Similarity Limitations**: Cosine similarity, often used for mistake detection, struggles with distinguishing between characters like 'i', 'l', and '1'. For instance, 'Hbalc' might be incorrectly read.
+2. **Regex Limitations**: While regex can solve some problems, it might not accurately detect units like 'pg', 'mg', and 'L' if it's primarily designed to match symbols like '/' and '%'.
+
+## Proposed Solutions
+1. **NER (Named Entity Recognition)**: Utilizing NER instead of cosine similarity could potentially address both issues by detecting parameter names and units. However, it's worth noting that preparing data and training the model for NER might require additional time and effort.
 
 # How to Run NoteBook
 
