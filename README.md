@@ -65,6 +65,7 @@ This function is designed to extract three types of information from a cleaned l
 - The extracted parameter, value, and unit are stored in a list of dictionaries named `main_dic`.
 
 ## Remove Duplicates
-
+<img width="415" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/6e5c501b-bfd0-413c-8db5-2d520f306cd7">
+As we can see from the image that the parameter is not unique, So to remove duplicate we have used function called `remove_duplicate_parameter`
 ## Final Output
 
