@@ -7,6 +7,7 @@
 <img width="473" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/06d14f53-d895-41fe-af38-d997df0bc09d">
 
 ## Read Line
+#### Function *to_read_txt* is used to read data from txt file
 
 ## Read Parameter
 
