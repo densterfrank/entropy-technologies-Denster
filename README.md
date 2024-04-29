@@ -1,4 +1,4 @@
-# entropy-technologies-Denster
+# Entropy-Technologies-Denster
 # Name
 ### Denster Joseph Frank - Data Scientist
 # Project Overview
