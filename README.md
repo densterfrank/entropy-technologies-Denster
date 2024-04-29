@@ -7,13 +7,13 @@
 <img width="473" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/06d14f53-d895-41fe-af38-d997df0bc09d">
 
 ## Read Line
-#### Function *to_read_txt* is used to read data from txt file
+#### Function 'to_read_txt' is used to read data from txt file
 
 ## Read Parameter
-#### Function *to_read_json* is used to read data from json file and store in list named *parameter_list*
+#### Function **to_read_json** is used to read data from json file and store in list named **parameter_list*8
 
 ## Cleaned List
-#### Function *makelist_from_lines* is used to store each line as element in the list named *cleaned_list*
+#### Function **makelist_from_lines*8 is used to store each line as element in the list named **cleaned_list**
 
 ## First Filter
 This function  contains a data cleaning pipeline that utilizes regex and NLP techniques to remove unwanted lines from a given list of text data. The process involves several steps:
