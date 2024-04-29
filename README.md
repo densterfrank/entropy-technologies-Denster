@@ -33,7 +33,7 @@ The unwanted lines are removed based on these conditions, and the filtered lines
 ## Second Filter
 This function, `second_filter`, serves as the second layer of filtering in the cleaning process. Each line of data is passed into two separate functions, `verify`, which filter out unwanted data based on specific conditions.
 
-## Conditions for Filtering
+### Conditions for Filtering
 
 ### Condition 1: Contains Special Symbols
 
