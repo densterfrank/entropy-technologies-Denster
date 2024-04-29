@@ -16,7 +16,7 @@
 #### Function `makelist_from_lines` is used to store each line as element in the list named `cleaned_list`
 
 ## First Filter
-This function  contains a data cleaning pipeline that utilizes regex and NLP techniques to remove unwanted lines from a given list of text data. The process involves several steps:
+This function  `first_filter` contains a data cleaning pipeline that utilizes regex and NLP techniques to remove unwanted lines from a given list of text data. The process involves several steps:
 
 1. **Tokenization**: Each line of text is converted into tokens.
 2. **Lowercasing**: All tokens are converted into lowercase for consistency.
