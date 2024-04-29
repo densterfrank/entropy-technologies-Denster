@@ -77,4 +77,4 @@ As we can see from the image that the parameter is not unique, So to remove dupl
 # How to Run NoteBook
 
 # Reference
-
+Ma MW, Gao XS, Zhang ZY, Shang SY, Jin L, Liu PL, Lv F, Ni W, Han YC, Zong H. Extracting laboratory test information from paper-based reports. BMC Med Inform Decis Mak. 2023 Nov 6;23(1):251. doi: 10.1186/s12911-023-02346-6. PMID: 37932733; PMCID: PMC10629084.
