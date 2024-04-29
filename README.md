@@ -6,4 +6,21 @@
 # Approach
 <img width="473" alt="image" src="https://github.com/densterfrank/entropy-technologies-Denster/assets/87901837/06d14f53-d895-41fe-af38-d997df0bc09d">
 
+## Read Line
+
+## Read Parameter
+
+## Cleaned List
+
+## First Filter
+
+## Second Filter
+
+## Remove unwanted tokens
+
+## Information Extaction
+
+## Remove Duplicates
+
+## Final Output
 
